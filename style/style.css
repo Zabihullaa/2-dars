@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+.video1{
+        width: 600px;
+}
+.title{
+        background: red;
+        color: blue
+}
+.text{
+        background: yellow;
+        color: aqua;
+}
